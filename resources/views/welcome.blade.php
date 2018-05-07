@@ -84,7 +84,7 @@
 
                 <div class="links">
                     <a href="/admin">Admin</a>
-                    <a href="/forum">Laracasts</a>
+                    <a href="/forums">Forum</a>
                     <a href="/login">Login</a>
                     <a href="/register">Register</a>
                 </div>
