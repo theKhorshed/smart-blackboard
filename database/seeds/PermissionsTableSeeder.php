@@ -37,5 +37,22 @@ class PermissionsTableSeeder extends Seeder
         Permission::generateFor('categories');
 
         Permission::generateFor('settings');
+        
+        Permission::generateFor('batches');
+
+        Permission::generateFor('classes');
+
+        Permission::generateFor('courses');
+        
+        Permission::generateFor('sections');
+
+        Permission::generateFor('semesters');
+
+        Permission::generateFor('departments');
+        
+        Permission::generateFor('programs');
+
+        Permission::generateFor('faculties');
+        
     }
 }
